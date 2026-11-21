@@ -40,6 +40,4 @@ I'm a beginner web developer interested in building modern, responsive websites 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=da1su4e&show_icons=true&theme=algolia)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=da1su4e&layout=compact&theme=algolia)
